@@ -30,9 +30,9 @@ Este projeto é a parte frontend de um sistema simples de gerenciamento de usuá
 1. Clone o repositório:
    git clone https://github.com/segrobin/CadastroNomes_frontendreact.git
    cd sistema-de-gerenciamento-de-usuarios/CadastroNomes_frontendreact
-Instale as dependências:
+## Instale as dependências:
 npm install
-Inicie a aplicação React:
+## Inicie a aplicação React:
 npm start
 Uso
 Abra seu navegador web e navegue para http://localhost:3000.
