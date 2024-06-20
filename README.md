@@ -38,6 +38,6 @@ Uso
 Abra seu navegador web e navegue para http://localhost:3000.
 Use o formulário para adicionar, pesquisar e excluir usuários.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 React
 Material-UI
